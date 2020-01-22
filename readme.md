@@ -21,5 +21,5 @@ None yet 🎶 🎺
 - [ ] **Make the script run when SF page is loaded, instead of waiting 5 seconds**
 
 ### Pain points 🤕
-- [ ] **Trying to add the button in the iFrame where the User info is**
+- **Trying to add the button in the iFrame where the User info is**
 (This iFrame comes from a different subdomain so it can't be accessed by JS after the page loads)
